@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wohdaifaem.cloudenticate.com/sitemap.xml
